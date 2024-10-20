@@ -58,4 +58,4 @@ getLocation()
 
 const url = 'https://api.openweathermap.org/data/2.5/weather?' 
 const icon_url = 'http://openweathermap.org/img/wn/' 
-const api_key = '4036468cadfe2da716f5c57b73eec0d2'
+const api_key = 
